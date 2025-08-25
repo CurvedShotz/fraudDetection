@@ -1,2 +1,2 @@
 def myfunc():
-    pass
+    return 'something'
