@@ -1,2 +1,3 @@
 def myfunc():
-    return 'something'
+    val = 5
+    return True
