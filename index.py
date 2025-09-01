@@ -1,3 +1,2 @@
 def myfunc():
-    val = 5
-    return True
+    return "this is to test if its actually pushing to github"
