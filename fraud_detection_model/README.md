@@ -45,3 +45,7 @@ This project aims to build and evaluate a machine learning model for detecting f
    ```bash
    python src/evaluate.py
    ```
+
+- CODING LOG
+   On my first iteration the model performed poorly due to the extreme imbalance in the dataset
+   
